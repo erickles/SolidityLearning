@@ -1,0 +1,14 @@
+{
+    "abi": "[{\"constant\":false,\"inputs\":[{\"name\":\"amount\",\"type\":\"uint256\"}],\"name\":\"checkValue\",\"outputs\":[{\"name\":\"\",\"type\":\"bool\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[],\"name\":\"loan\",\"outputs\":[{\"name\":\"\",\"type\":\"bool\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]",
+    "bytecode": "",
+    "functionHashes": {
+        "checkValue(uint256)": "18db62fb",
+        "loan()": "d285b7b4"
+    },
+    "gasEstimates": {
+        "creation": {},
+        "external": {},
+        "internal": {}
+    },
+    "runtimeBytecode": ""
+}
